@@ -3,7 +3,8 @@
 ### Description
 
 - RISC-V enthusiast
-- Armbian & openwrt developer
+- Armbian developer
+- openwrt/immortalwrt/lean's_lede developer
 
 ### Devices
 #### SBCs
@@ -24,8 +25,24 @@
 - Radxa Orion O6
 
 #### Laptops
-- Lenovo Legion R9000K 2021H (5900HX RTX3080)
-- Lenovo Legion R9000p 2024  (7945HX RTX4060)
+- Lenovo Legion R9000K 2021 (5900HX RTX3080)
+- Lenovo Legion R9000P 2024 (7945HX RTX4060)
+- Mechrevo Code 01 2020 (4600H)
+
+#### NUCs
+- GMK K8Plus (8845HS)
+- NUC13i7 (13620H)
+- Dell Wyse 3040 (8350)
+- NUC5CPYH (N3060)
+
+#### SERVERs
+- Foxconn RM760-FX (8259CL*2)
+
+#### Desktops
+- A320/200GE
+- B85/G3258
+- H61/G645
+
 <!--
 **libiunc/libiunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
