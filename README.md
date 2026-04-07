@@ -6,7 +6,9 @@
 - Armbian developer
 - openwrt/immortalwrt/lean's_lede developer
 
-### Devices
+<details>
+### <summary>Devices</summary>
+
 #### SBCs
 - LicheePi 4A (th1520) (from rv2036/riscv-board-wandering, thanks)
 - OrangePi OPI-RV2 (k1)
@@ -42,6 +44,8 @@
 - A320/200GE
 - B85/G3258
 - H61/G645
+
+</details>
 
 <!--
 **libiunc/libiunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
